@@ -5,6 +5,9 @@ The Company Productivity Management System is a Java-based application designed 
 
 By gathering and analyzing data on employees' working preferences and productivity metrics, the Company Productivity Management System provides insights and recommendations on how to improve productivity at both the individual and company levels. With this system, companies can make data-driven decisions to enhance workplace satisfaction and productivity.
 
+![image](https://github.com/talco318/CompanyProductivityManagment/assets/12784722/d3678a57-74f5-4dff-bab9-20fb4ff63d11)
+
+
 ## Features
 Worker Preference Management: Collect and manage employees' working preferences, including work hours, remote work options, and more.
 Productivity Analysis: Track and analyze individual and company-wide productivity metrics.
